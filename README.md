@@ -7,22 +7,22 @@
 
 ### 🔍 About Me
 
-- 🌱 Currently sharpening my skills in **automation, CI/CD pipelines, and performance testing**
+- 🌱 Currently sharpening my skills in **automation, CI/CD pipelines, and performance testing**.<br>  I like <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20" alt="Go logo" />Go-ing  in new directions with fox-like curiosity. 🦊 
 - 🛠️ Looking to collaborate on **challenging test automation projects** or **open source tools**
 - 🎯 Always chasing **edge cases, elusive bugs, and elegant test frameworks**
 - 🦊 **Fun fact**: Foxes don’t follow paths — they make their own. Just like my test scripts.
 - 🤠 **Weird fact**: My favorite command is [chuck_cow](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/chucknorris/README.md) — because random Chuck cows are always chuckling in my shell.
 </p>
 <pre>
- ________________________________________
-( Chuck Norris doesn't look for fun. The )
-( fun looks for Chuck Norris.            )
- ----------------------------------------
-        o   ^__^
-         o  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+         ________________________________________
+        ( Chuck Norris doesn't look for fun. The )
+        ( fun looks for Chuck Norris.            )
+         ----------------------------------------
+                o   ^__^
+                 o  (oo)\_______
+                    (__)\       )\/\
+                        ||----w |
+                        ||     ||
 </pre>
 
 ---
